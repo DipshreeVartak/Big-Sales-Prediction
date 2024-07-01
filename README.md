@@ -5,7 +5,8 @@ This project aims to predict sales for a retail company using a Random Forest Re
 
 **Dataset Overview**
 The dataset includes 12 variables:
-**1]Item_Identifier:** Unique product ID./
+**1]Item_Identifier:** Unique product ID.
+
 **2]Item_Weight:** Weight of the product.
 **3]Item_Fat_Content:** Whether the product is low fat or regular.
 **4]Item_Visibility:** The percentage of total display area of all products allocated to the particular product.
