@@ -4,7 +4,9 @@ Big Sales Prediction using Random Forest Regressor
 This project aims to predict sales for a retail company using a Random Forest Regressor model. The dataset contains various attributes related to the items and outlets, which will be used to train the model to predict the sales for different products across various stores.
 
 **Dataset Overview**
+
 The dataset includes 12 variables:
+
 **1]Item_Identifier:** Unique product ID.
 
 **2]Item_Weight:** Weight of the product.
@@ -30,6 +32,7 @@ The dataset includes 12 variables:
 **12]Item_Outlet_Sales:** Sales of the product in the particular store (target variable).
 
 **Data Preprocessing**
+
 **Import Libraries:**
 1)pandas
 2)numpy
